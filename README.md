@@ -112,5 +112,7 @@ output :
 
 ## Usage
 - windows vs2010 及以后版本， linux 编译需要编译选项： -std=c++0x
-- 更多例子见 tinyjson_test.h 
+- 更多例子见 tinyjson_test.h
+
+for test
 
