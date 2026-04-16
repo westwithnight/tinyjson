@@ -1,12 +1,13 @@
-
 # tinyjson - a simple json parser for C++
 
 ## Features
+
 - 轻量级
 - 跨平台
 - Header only
 
 ## Example
+
 read json:
 
 ```c++
@@ -62,7 +63,7 @@ void TEST1() {
 
 ```
 
-write json: 
+write json:
 
 ```c++
 
@@ -111,6 +112,8 @@ output :
 ```
 
 ## Usage
-- windows vs2010 及以后版本， linux 编译需要编译选项： -std=c++0x
-- 更多例子见 tinyjson_test.h 
 
+- windows vs2010 及以后版本， linux 编译需要编译选项： -std=c++0x
+- 更多例子见 tinyjson_test.h
+
+for test
